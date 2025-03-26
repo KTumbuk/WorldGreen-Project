@@ -33,8 +33,7 @@
           </div>
         </div>
       </nav>
-
-      <div class="bawah">    
+  
       <div class="container mt-5">
         <div class="row justify-content-center">
           <div class="col-md-4">
@@ -43,7 +42,7 @@
                 <h4>Log in</h4>
               </div>
               <div class="card-body">
-                <form action="home.html">
+                <form action="index.php?page=home">
                   <div class="mb-4">
                     <input type="email" class="form-control" placeholder="Email" required>
                   </div>
@@ -62,7 +61,6 @@
           </div>
         </div>
       </div>
-    </div>
 
     <h1 style="margin-bottom: 288px;"></h1>
 
